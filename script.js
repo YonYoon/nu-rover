@@ -66,7 +66,7 @@ function showSecret() {
     const button = document.createElement("button");
     button.textContent = "Support now";
     button.addEventListener("click", function () {
-        window.localStorage.href = "https://t.me/yonyoon";
+        window.location.href = "https://t.me/yonyoon";
     });
     button.classList.add("support-button");
 
