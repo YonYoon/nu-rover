@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    color: rgb(113, 232, 74);
+}
+
+.space-grotesk-custom {
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.center-div {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
